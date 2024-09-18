@@ -1,4 +1,4 @@
-![omg12](https://github.com/user-attachments/assets/ce98cdb9-0117-401b-9b05-9623b2c588ca)# Enumeration
+# Enumeration
 
 # Explore Google hacking and enumeration 
 
